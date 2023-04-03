@@ -9,7 +9,7 @@ Les données utilisées dans cet exercice sont:
 L'exercice est composé de 2 parties:
 
 ## Exploration des données
-Cette partie (*data_exploration.ipynb*) est une analyse exploratoire des différentes données. L'anayse s'est faite par étude de lien entre les variables.
+Cette partie (*data_exploration.ipynb*) est une analyse exploratoire des différentes données. L'anayse s'est faite par étude de lien entre les variables.\\
 Exemple: Lien entre la durée du trajet et le prix du ticket, lien entre la distance et le prix, ...
 
 ## Prédiction
